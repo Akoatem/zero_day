@@ -10,4 +10,4 @@
 
  # Task
  - All students are require to put atleast 70hrs per week
- # So far so good the program is good and the training i amazing.
+ # So far so good the program is good and the training is amazing.
